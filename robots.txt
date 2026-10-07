@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://creativeideasbusinesssolutions.github.io/CREATIVE-IDEAS-BUSINESS-SOLUTION/sitemap.xml
